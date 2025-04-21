@@ -63,3 +63,5 @@ function checkManager(Employee:Employee):boolean{
 
 checkManager({ID: 1, name: "John", Role: role.manager, intern: false})
 console.log(checkManager({ID: 1, name: "John", Role: role.manager, intern: false}));
+
+//function check Employee
